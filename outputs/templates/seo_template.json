@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "title": "",
+        "description": "",
+        "keywords": [],
+        "author": "Multi-Agent SEO Blog Generator"
+    },
+    "seo_requirements": {
+        "min_word_count": 2000,
+        "keyword_density": {
+            "primary": "2-3%",
+            "secondary": "1-2%"
+        },
+        "headings": {
+            "h1": 1,
+            "h2": "3-5",
+            "h3": "4-6"
+        }
+    },
+    "keywords": {
+        "primary": "",
+        "secondary": []
+    }
+}
+

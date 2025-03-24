@@ -1,0 +1,9 @@
+langchain
+beautifulsoup4==4.12.2
+requests==2.31.0
+nltk
+textblob
+langdetect
+newscatcherapi
+google-generativeai==0.3.0
+python-dotenv==1.0.0

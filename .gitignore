@@ -1,0 +1,30 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Generated content
+outputs/*
+!outputs/templates/
+outputs/templates/*
+!outputs/templates/blog_template.md
+!outputs/templates/review_template.md
+!outputs/templates/seo_template.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE
+.vscode/
+.idea/
+
+# Generated blogs
+outputs/final_blog.*
+outputs/blog_outline.json
+outputs/review.txt
+
+# OS files
+.DS_Store
+Thumbs.db
