@@ -74,14 +74,8 @@ multi_agent_seo_blog/
 │   ├── research_agent.py
 │   ├── review_agent.py
 │   └── seo_optimizer.py
-├── models/
-│   └── llm_model.py
-├── utils/
-│   ├── blog_generator.py
-│   └── helpers.py
 ├── data/
 │   ├── output.html
-│   └── output.md
 └── outputs/
     ├── blog_outline.json
     ├── final_blog.txt
